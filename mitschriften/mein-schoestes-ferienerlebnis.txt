@@ -1,6 +1,5 @@
 # MEIN SCHÖNSTES FERIEN ERLEBNIS IST:
 
 """
-Ich war im HPI-Vorkurs und habe viele tolle neue Leute kennengelernt.
-Vor allem haben mir die Übungen besonders gut gefallen, weil sie immer von höchster Güteklasse einfallsreich waren. :)))
+Die gesammten Sommerferien durch zu Coden und nur 10 Energy pro Tag zu trinken um wach zu bleiben!
 """
