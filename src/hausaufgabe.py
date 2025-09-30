@@ -1,3 +1,4 @@
+# executes the program
 def main() -> None:
     try:
         with open("secret_data.txt", "w") as file:
